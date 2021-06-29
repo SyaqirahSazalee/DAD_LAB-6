@@ -1,4 +1,5 @@
 IN SERVER
 
+Picture2.png
 
 IN CLIENT
